@@ -1,7 +1,5 @@
 # Taxi_Trip_Price_Regression
 
-# Taxi Trip Pricing Prediction
-
 ## Task Objective
 The main objective of this project is to develop and evaluate machine learning models to accurately predict taxi trip prices based on various trip attributes, including distance, time, traffic conditions, weather, and more.
 
